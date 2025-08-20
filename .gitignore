@@ -1,0 +1,10 @@
+# Project place file
+/Passione.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+
+.vscode/
+/Packages
